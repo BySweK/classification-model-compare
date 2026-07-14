@@ -48,14 +48,13 @@ Aşağıdaki 6 algoritma üzerinde, en iyi parametreleri bulmak adına `GridSear
 
 Model optimizasyonları sonucunda test seti üzerinde elde edilen başarı metrikleri aşağıdaki gibidir:
 
-| Model Algoritması | Test Doğruluğu (Accuracy) | En İyi Hiperparametreler |
+| Model Algoritması | Test Doğruluğu (Accuracy) | 
 | :--- | :---: | :--- |
-| **Random Forest** | **%76.04** ||
-| **Logistic Regression** ||
-| **KNN** | **%70.83** ||
-| **SVC** | **%71.35** ||
-| **AdaBoost** | **%69.79** ||
-| **Decision Tree** | **%68.22** ||
+| **Random Forest** | **%72.91** ||
+| **Logistic Regression** |**%76.04** |
+| **KNN** | **%74.47** ||
+| **AdaBoost** | **%73.43** ||
+
 
 > *Not: Bu sonuçlar veri setinin %25'lik test bölünmesi üzerinde doğrulanmıştır. En dengeli performansı ve en yüksek recall değerini Random Forest modeli sunmuştur.*
 
