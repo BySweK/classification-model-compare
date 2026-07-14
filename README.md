@@ -44,22 +44,6 @@ Aşağıdaki 6 algoritma üzerinde, en iyi parametreleri bulmak adına `GridSear
 
 ---
 
-## 📈 Karşılaştırmalı Model Sonuçları
-
-Model optimizasyonları sonucunda test seti üzerinde elde edilen başarı metrikleri aşağıdaki gibidir:
-
-| Model Algoritması | Test Doğruluğu (Accuracy) | 
-| :--- | :---: | :--- |
-| **Random Forest** | **%72.91** ||
-| **Logistic Regression** |**%76.04** |
-| **KNN** | **%74.47** ||
-| **AdaBoost** | **%73.43** ||
-
-
-> *Not: Bu sonuçlar veri setinin %25'lik test bölünmesi üzerinde doğrulanmıştır. En dengeli performansı ve en yüksek recall değerini Random Forest modeli sunmuştur.*
-
----
-
 ## 🛠️ Teknolojiler ve Kütüphaneler
 Bu projede Python 3 ve aşağıdaki veri bilimi kütüphaneleri kullanılmıştır:
 * **Veri Analizi:** `pandas`, `numpy`
