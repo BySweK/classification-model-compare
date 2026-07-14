@@ -51,7 +51,3 @@ Bu projede Python 3 ve aşağıdaki veri bilimi kütüphaneleri kullanılmışt�
 * **Makine Öğrenmesi:** `scikit-learn`
 
 ---
-
-   ```bash
-   git clone [https://github.com/kullanici_adin/diabetes-prediction.git](https://github.com/kullanici_adin/diabetes-prediction.git)
-   cd diabetes-prediction
