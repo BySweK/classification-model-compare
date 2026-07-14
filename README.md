@@ -50,12 +50,12 @@ Model optimizasyonları sonucunda test seti üzerinde elde edilen başarı metri
 
 | Model Algoritması | Test Doğruluğu (Accuracy) | En İyi Hiperparametreler |
 | :--- | :---: | :--- |
-| **Random Forest** | **%76.04** | `{'max_depth': 10, 'n_estimators': 100}` |
-| **Logistic Regression** | **%73.43** | `{'C': 1, 'penalty': 'l2'}` |
-| **KNN** | **%70.83** | `{'n_neighbors': 9, 'weights': 'distance'}` |
-| **SVC** | **%71.35** | `{'C': 1, 'kernel': 'rbf', 'gamma': 'scale'}` |
-| **AdaBoost** | **%69.79** | `{'n_estimators': 50, 'learning_rate': 0.1}` |
-| **Decision Tree** | **%68.22** | `{'max_depth': 5, 'min_samples_split': 5}` |
+| **Random Forest** | **%76.04** ||
+| **Logistic Regression** ||
+| **KNN** | **%70.83** ||
+| **SVC** | **%71.35** ||
+| **AdaBoost** | **%69.79** ||
+| **Decision Tree** | **%68.22** ||
 
 > *Not: Bu sonuçlar veri setinin %25'lik test bölünmesi üzerinde doğrulanmıştır. En dengeli performansı ve en yüksek recall değerini Random Forest modeli sunmuştur.*
 
